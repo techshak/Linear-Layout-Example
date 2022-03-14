@@ -1,1 +1,1 @@
-Class work on arranging imag views 
+A simple example on arranging images using a linear layout in your xml
